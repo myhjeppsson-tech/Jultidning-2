@@ -5,7 +5,7 @@
 This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
 But it can be used by anyone who wants to try GitHub Pages to publishing a simple HTML-based website.
 
-🚀[Visit the Website](https://sslis.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
+🚀[Visit the Website](https://myhjeppsson-tech.github.io/Jultidning-2/) if you want to see what the published version of this repository looks like.
 
 An example of what the template can turn into can be found in Wout's [DIY-frankensTEIn](https://sslis.github.io/DIY-frankensTEIn/index.html) repository.
 For more information on the template and how to get started yourself, please refer to [the repository's wiki](https://github.com/SSLIS/DCHM-template/wiki).  
