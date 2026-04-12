@@ -36,10 +36,10 @@
          <figure>
             <label>Post-It Front</label>
             <figDesc>
-               A photograph of the front of a post-it with a simple example phrase.
+               En bild på Jultidningens framsida
             </figDesc>
-            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
-            <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
+            <graphic xml:id="Sida1-Edit" url="assets/img/documents/Sida1-Edit.jpg"/>
+            <graphic xml:id="Sida1-thumb" url="assets/img/documents/Sida1-thumb.jpg"/>
          </figure>
       </surface>
       <surface xml:id="postit02">
